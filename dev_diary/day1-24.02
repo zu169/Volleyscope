@@ -1,0 +1,24 @@
+Day 1 - 24/02
+
+Only had time for some initial setup.
+I updated the terminal and create the git repo where I will be developing the app.
+
+1. Updated ubuntu terminal
+2. Created Git Repo
+3. Built a flutter app project to develop in
+
+Problems ->
+1. Cloning a private git repo
+Temp Fix -> Making it public lol
+Permanent Fix -> Generate a PAT for the repo
+
+2. .yaml file not being found in the Flutter app
+Temp Fix -> None
+Permanent -> None
+ToDo -> Look at discord history for the solution to this
+
+Overall I realised I have retained a lot more knowledge in navigating the terminal and building the projects,
+which I'm very happy about.
+
+Next time the goal will be to get the Flutter project to run and to create the initial functionality
+for create match files. Also looking into connecting the project to the convex database.
