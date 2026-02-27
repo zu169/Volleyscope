@@ -1,0 +1,20 @@
+Day 2  - 27/02
+
+Don't have much time today either. 
+I fixed the fullter project turns out I just wasn't in the right directory when trying to run it.
+Now I'm trying to install and run Flutter in this git repo I'm not too sure how to do it tho.
+
+1. Pushed changes to git repo
+2. Ran the Flutter project 
+3. Install flutter into repo and creat new project
+
+Problems ->
+1. yaml file not being found in flutter app
+Permanent fix -> Be in the right directory lol
+
+2. Create new flutter project in this repo 
+Started installing flutter in ubuntu 
+Problems extracting sdk to ubuntu 
+Fix -> ???
+
+That's all the time I have for the morning.
