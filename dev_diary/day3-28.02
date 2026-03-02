@@ -1,0 +1,43 @@
+Day 3 - 28/02
+
+I am working on installing Flutter onto Ubuntu today.
+Right now I am extracting the Flutter SDK and going to move it to the Ubuntu folder on my windows.
+Hopefully it works
+
+1. Create new flutter project in this repo
+Started installing flutter in ubuntu
+Problems extracting sdk to ubuntu
+Fix -> 
+1. Download Flutter SDK to windows
+2. Extract file to documents folder 
+3. Move flutter folder to ubuntu/home/zuabo/
+
+this took forever and crashed my files :)
+
+I'm thinking about just doing it on the windows instead of ubuntu which is sad because I like using the ubuntu terminal for things
+
+so i'm doing it on windows
+i ran 'flutter create volleyscope'
+and it built it 
+then i tried 'flutter run'
+and it didn't work on windows so i ran flutter doctor to debug
+
+I got back issue with:
+1. Android toolchain
+Fix: install android studio 
+2. Visual Studio - develop windows apps 
+Fix: install 'development with c++ workload
+
+First I will try to run it on chrome tho
+It worked on chrome yay!
+
+SO in short:
+I gave up tryign to set it up on ubuntu wayyyy too annoying.
+and I managed to create the flutter app from the old installation of flutter when I was working with Cubble.
+Hopefully this works long term :) if not it's all good i know how to fix it.
+
+Next ToDo:
+1. Create a main page with button to take you to match creation
+2. In match creation allow user to enter teams involved and the date of the match.
+3. Display the existing matches in a list on the main page.
+4. Connect a database to the whole thing! (scary part)
