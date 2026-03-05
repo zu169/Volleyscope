@@ -1,0 +1,30 @@
+Day 4 - 05/03
+Hi, I've made some progress :)
+I've started messing around with the code and I managed to create the route from 
+the main page to the match creation page. I'm not sure if I'm doing things correctly tho.
+
+Positives -
+1. Created button to lead to match creation!
+2. Navigated to new page for match creation and can return to main page.
+
+Issues -
+1. Need to update flutter but it says I have things in my flutter checkout
+Fix: I just used --force to force the upgrade. 
+I don't know what changes they would be so I don't think they matter too much. We'll see if I get this problem again.
+2. Need to identify how to separate the different pages I need for the app.
+Fix: Watch the Flutter tutorial through and improve my codebase and current functionality
+
+Exciting - 
+I have thought of a fun an idea for an update to the app.
+A functionality I would like to add in the future would be timestamping the linked videos of the games
+and being able to click to a specific point in the game. 
+The showcase of that would be someone going home after a game where they thought the played really well saying 
+they need to make an edit of that. 
+They would open up the app and find the game already analysed by their statistician they would filter
+the game point for where they had a ball touch (block, pass, set or hit) 
+and click on those points to skip to that point in the video. 
+Then transition to an edit of their highlights of the game.
+
+ToDo - 
+2. Add the functionality to add the home and away team name and the date of it :)
+3. Display a list of saved games on the main screen.
